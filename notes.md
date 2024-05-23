@@ -1,0 +1,9 @@
+- use '//' for commenting a line
+- a block of code can be be commented out by placing the portion betweem '/*' and '*/'
+- entry to a c++ program is through the main function
+- '::' is the scope resolution operator. In the phrase 'std::cout' it means that from the 'std' namespace (a collection of a collection of codes from the same vendor or written for a similar purpose.) the 'cout' object is declared or called.
+- to output something in the terminal use std::cout
+- to get an input from the user use std::cin
+- to print error messages use std::cerr
+- for log messages use std::clog
+- datatypes: int, double, float, char, bool, void, auto, ...
